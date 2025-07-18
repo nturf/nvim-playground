@@ -1,0 +1,3 @@
+[submodule "present.nvim"]
+	path = present.nvim
+	url = git@github.com:nturf/present.nvim.git
